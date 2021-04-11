@@ -1,2 +1,8 @@
 /data
 /images
+/.vscode
+/images-old
+/*.zip
+detect_and_remove.py
+detect_duplicates.ipynb
+convert-image.ipynb
